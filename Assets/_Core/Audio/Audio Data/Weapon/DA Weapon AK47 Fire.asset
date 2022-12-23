@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fa598a13589e214eab7cc72c5bc4640, type: 3}
+  m_Name: DA Weapon AK47 Fire
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 97a22cb57e07a7244bc6ae204d7f2f2c, type: 3}
+  - {fileID: 8300000, guid: dee4a2a94331428488468d0b941a97fd, type: 3}
+  - {fileID: 8300000, guid: ea6bf97d2c087134da2d7ae2dad15119, type: 3}
+  - {fileID: 8300000, guid: a43eddeef8f174746bc0ca04a8450a74, type: 3}
+  volume: 1
+  volumeVariant: 0
+  pitch: 1
+  pitchVariant: 0.05
+  mixerGroup: {fileID: -1350643789355231898, guid: 3a7d3f9db96be3e498dfc20e80f3028b,
+    type: 2}
+  loop: 0
+  randomStartPos: 0
+  delay: {x: 0, y: 0}
+  fade: {x: 0, y: 0}
+  spatialBlend: 1

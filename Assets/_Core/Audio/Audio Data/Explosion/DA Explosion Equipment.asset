@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fa598a13589e214eab7cc72c5bc4640, type: 3}
+  m_Name: DA Explosion Equipment
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: b1519f8798e515c4293a949e5035a5db, type: 3}
+  volume: 1
+  volumeVariant: 0.05
+  pitch: 1
+  pitchVariant: 0.05
+  mixerGroup: {fileID: 855608560622735448, guid: 3a7d3f9db96be3e498dfc20e80f3028b,
+    type: 2}
+  loop: 0
+  randomStartPos: 0
+  delay: {x: 0, y: 0}
+  fade: {x: 0, y: 0}
+  spatialBlend: 1

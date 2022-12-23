@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fa598a13589e214eab7cc72c5bc4640, type: 3}
+  m_Name: DA UI Coin Drop
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 6b2280bb0ece3ea488c06de3298a3c7c, type: 3}
+  volume: 1
+  volumeVariant: 0
+  pitch: 0.8
+  pitchVariant: 0.1
+  mixerGroup: {fileID: -3261157889379264616, guid: 3a7d3f9db96be3e498dfc20e80f3028b,
+    type: 2}
+  loop: 0
+  randomStartPos: 0
+  delay: {x: 0, y: 0}
+  fade: {x: 0, y: 0}
+  spatialBlend: 0

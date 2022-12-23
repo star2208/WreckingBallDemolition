@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ac05d17ba101d24797f8e845f7a8e73, type: 3}
+  m_Name: Audio Data Category
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 7b5f7f3073e7d0d43939c657e61d8df4, type: 2}
+    - {fileID: 11400000, guid: bdf09abf8c11ce3459d92367a71763ed, type: 2}
+    - {fileID: 11400000, guid: d7c3de0e2cdf026459392b1291ffb7c9, type: 2}
+    - {fileID: 11400000, guid: b75834115340e2846bcb1a0dc76ba8fd, type: 2}
+    - {fileID: 11400000, guid: 3299cf8dfac58c747ab3951562ad3d02, type: 2}
+    - {fileID: 11400000, guid: 19a63750da9aa954e9cb8f0760a29160, type: 2}
+    - {fileID: 11400000, guid: a19de7416ecc8df49867ddd93b0a9fce, type: 2}
+    - {fileID: 11400000, guid: a7ebcfd2768c91e44b1deaf90a110dba, type: 2}
+    - {fileID: 11400000, guid: 9113d3221bb11d644829caf2d3f670de, type: 2}
+    - {fileID: 11400000, guid: 2d0cbc8271117824fb9edcb44880b16d, type: 2}
+    - {fileID: 11400000, guid: b1c86248675ebe34181aca00c93f466a, type: 2}
+    - {fileID: 11400000, guid: 842fcb0c520687d47b4a42280b6a771b, type: 2}
+    - {fileID: 11400000, guid: 998e9a4b8cdd7be4cb41f70563d71e04, type: 2}
+    - {fileID: 11400000, guid: e87894d26a83a6c4180e1174dc1204ea, type: 2}
+    - {fileID: 11400000, guid: 0597c7ea7c2b99d44aca90981b2cffbb, type: 2}
+    - {fileID: 11400000, guid: 791ea4076aebef2488c3231c31e257f6, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: audioDataDictionary
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[AudioData,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 16
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Hit Hint
+    - Name: $v
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Kill Marker
+    - Name: $v
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI New Record
+    - Name: $v
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Score Count
+    - Name: $v
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Score Count Complete
+    - Name: $v
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Score Count Mutiple
+    - Name: $v
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Text Popup
+    - Name: $v
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Button Click Crisp
+    - Name: $v
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Coin Drop
+    - Name: $v
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Coin Drop Large
+    - Name: $v
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA BGM Disco
+    - Name: $v
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Button Click
+    - Name: $v
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Item Add
+    - Name: $v
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Pop
+    - Name: $v
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Upgrade
+    - Name: $v
+      Entry: 10
+      Data: 14
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: DA UI Negative
+    - Name: $v
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  hitMarker: {fileID: 11400000, guid: 7b5f7f3073e7d0d43939c657e61d8df4, type: 2}
+  killMarker: {fileID: 11400000, guid: bdf09abf8c11ce3459d92367a71763ed, type: 2}
+  audioDataList:
+  - {fileID: 11400000, guid: 7b5f7f3073e7d0d43939c657e61d8df4, type: 2}
+  - {fileID: 11400000, guid: bdf09abf8c11ce3459d92367a71763ed, type: 2}
+  - {fileID: 11400000, guid: d7c3de0e2cdf026459392b1291ffb7c9, type: 2}
+  - {fileID: 11400000, guid: b75834115340e2846bcb1a0dc76ba8fd, type: 2}
+  - {fileID: 11400000, guid: 3299cf8dfac58c747ab3951562ad3d02, type: 2}
+  - {fileID: 11400000, guid: 19a63750da9aa954e9cb8f0760a29160, type: 2}
+  - {fileID: 11400000, guid: a19de7416ecc8df49867ddd93b0a9fce, type: 2}
+  - {fileID: 11400000, guid: a7ebcfd2768c91e44b1deaf90a110dba, type: 2}
+  - {fileID: 11400000, guid: 9113d3221bb11d644829caf2d3f670de, type: 2}
+  - {fileID: 11400000, guid: 2d0cbc8271117824fb9edcb44880b16d, type: 2}
+  - {fileID: 11400000, guid: b1c86248675ebe34181aca00c93f466a, type: 2}
+  - {fileID: 11400000, guid: 842fcb0c520687d47b4a42280b6a771b, type: 2}
+  - {fileID: 11400000, guid: 998e9a4b8cdd7be4cb41f70563d71e04, type: 2}
+  - {fileID: 11400000, guid: e87894d26a83a6c4180e1174dc1204ea, type: 2}
+  - {fileID: 11400000, guid: 0597c7ea7c2b99d44aca90981b2cffbb, type: 2}
+  - {fileID: 11400000, guid: 791ea4076aebef2488c3231c31e257f6, type: 2}
